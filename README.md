@@ -1,5 +1,7 @@
 # Firebase phone number sms authentication with Vuejs 
 
+# no css 
+
 vue 3 vite project
 
 
